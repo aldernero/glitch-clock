@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/aldernero/utc-tui/pkg/tui"
+	"github.com/aldernero/glitch-clock/pkg/tui"
 )
 
 func main() {

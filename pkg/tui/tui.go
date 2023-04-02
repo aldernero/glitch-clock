@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/aldernero/gaul"
-	"github.com/aldernero/utc-tui/pkg/glyph"
+	"github.com/aldernero/glitch-clock/pkg/glyph"
 	"github.com/charmbracelet/bubbles/timer"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
@@ -118,7 +118,7 @@ func (m Model) View() string {
 		}
 		view += "\n"
 	}
-	return view
+	return viewStyle(view)
 }
 
 func applyGlitches(s string, whitespace []int, chars []int) string {
