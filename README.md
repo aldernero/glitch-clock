@@ -13,6 +13,12 @@ However, I spend a lot of time looking at dashboards and logs that use UTC time 
 that runs in a terminal window and just shows me the UTC time and date. That what glitch-clock does. It can also show
 local if you need yet another clock.
 
+## Installation
+Download one of the binaries in the Releases section, or
+```bash
+go install github.com/aldernero/glitch-clock@latest
+```
+
 ## Usage
 There are just a few command line options:
 ```bash
