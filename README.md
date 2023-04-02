@@ -1,6 +1,10 @@
 # glitch-clock
 A glitchy clock for the terminal
 
+
+https://user-images.githubusercontent.com/96601789/229367788-d6d5af62-204a-4c21-9df8-cd7f6f4d25ed.mp4
+
+
 ## Why do I need another clock?
 Good point. You probably don't. I bet if you look around you right now there are 3-4 clocks in
 your field of view. I don't need another normal clock either.
