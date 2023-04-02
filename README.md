@@ -1,8 +1,7 @@
 # glitch-clock
 A glitchy clock for the terminal
 
-
-https://user-images.githubusercontent.com/96601789/229367788-d6d5af62-204a-4c21-9df8-cd7f6f4d25ed.mp4
+![glitch](https://user-images.githubusercontent.com/96601789/229367894-2e2bcde6-87c5-4b5d-b4c4-ca96717c6163.gif)
 
 
 ## Why do I need another clock?
